@@ -53,5 +53,4 @@
 
 ## Aprovação
 
-______(Assinatura Digital)______		Data: 04/02/2023
-Gerentes: Nomes
+______(Assinatura Digital)______
