@@ -49,6 +49,9 @@
 * Gerente –
 * Stakeholders – Unitins, professores e alunos.
 
+## Metodologia aplicada no projeto
+	
+<p>A metodologia escolhida no projeto foi a de “Waterfall”, pelas seguintes motivações: não há necessidade de uma entrega contínua ao cliente e após a estruturação do desenvolvimento do site não devem haver mudanças, visto que a forma como processos e casos são registrados já são bem estabelecidas, seguindo várias normas.</p>
 
 
 ## Aprovação
