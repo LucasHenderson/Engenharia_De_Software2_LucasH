@@ -9,7 +9,7 @@
 ## Justificativa para Execução do Sistema
 <p>Atualmente o NPJ não tem uma forma eficiente de deixar organizado e armazenado os casos e processos de seus clientes. Visto que a maioria dos processos e casos podem demorar um tempo consideravelmente grande para serem concluídos, há necessidade dos mesmos serem melhores guardados, assim como toda sua documentação anexada.</p>
 
-<a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/escopo.md"><h2>Escopo do sistema</h2></a>
+<a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/escopo.md">Escopo do sistema</a>
 
 ## Exclusões (itens fora do escopo do sistema)
 <p>O site não será público para os clientes ou envolvidos, sendo somente usado pelos professores e alunos.</p>
