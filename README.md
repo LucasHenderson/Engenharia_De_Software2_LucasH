@@ -1,4 +1,4 @@
-![header](https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/imgs/unitins.png)
+<img src="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/imgs/unitins.png" style="width: 150px;"></img>
 
 # Projeto: Núcleo de Processos Jurídicos
 **Responsável: Lucas Henderson Vieira Cunha**
