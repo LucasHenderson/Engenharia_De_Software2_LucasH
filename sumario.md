@@ -10,18 +10,18 @@
 <p>Este projeto tem como proposta a criação de um software de gestão do Núcleos de Prática Jurídica, possibilitando aos professores orientadores do estágio armazenar dados dos assistidos, cadastrar e acompanhar todos os processos judiciais movidos pelos Núcleos de Prática Jurídica.</p>
 
 ## Sumário
-* <a href="">Justificativa para execução do sistema</a>
+* <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/justificativa.md">Justificativa para execução do sistema</a>
 * <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/escopo.md">Escopo do sistema</a>
-* <a href="">Organização inicial para o sistema</a>
-* <a href="">Exclusões</a>
-* <a href="">Metodologia aplicada no projeto</a>
-* <a href="">Product discovery</a>
-* <a href="">Produtos a serem entregues</a>
-* <a href="">Cronograma</a>
-* <a href="">Lista de requisitos funcionais</a>
-* <a href="">Lista de requisitos não funcionais</a>
+* <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/organizacao.md">Organização inicial para o sistema</a>
+* <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/exclusoes.md">Exclusões</a>
+* <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/metodologia.md">Metodologia aplicada no projeto</a>
+* <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/product-discovery.md">Product discovery</a>
+* <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/produtos.md">Produtos a serem entregues</a>
+* <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/cronograma.md">Cronograma</a>
+* <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/listaReqFun.md">Lista de requisitos funcionais</a>
+* <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/listaReqNaoFun.md">Lista de requisitos não funcionais</a>
 * <a href="">Modelo conceitual</a>
-* <a href="">Casos de uso de alto nível e expandido</a>
+* <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/casos-alto-expandido.md">Casos de uso de alto nível e expandido</a>
 * <a href="">Diagrama de classe</a>
 * <a href="">TAP</a>
 * <a href="">TEP</a>
