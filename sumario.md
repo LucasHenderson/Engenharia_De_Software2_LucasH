@@ -29,35 +29,6 @@
 ## Exclusões (itens fora do escopo do sistema)
 <p>O site não será público para os clientes ou envolvidos, sendo somente usado pelos professores e alunos.</p>
 
-## Produtos a serem entregues
-<table>
-  <tr>
-    <th>Nome</th>
-    <th>Descrição</th>
-  </tr>
-  <tr>
-    <td>Front-end.</td>
-    <td>Front-end em Angular referente ao site do projeto.</td>
-  </tr>
-  <tr>
-    <td>Back-end.</td>
-    <td>Back-end em Spring Boot referente ao site do projeto.</td>
-  </tr>
-  <tr>
-    <td>Documentação.</td>
-    <td>Documentação referente ao projeto, contendo toda a diagramação, regras de negócio, prototipação e etc.</td>
-  </tr>
-</table>
-
-## Organização inicial para o Sistema
-
-* Desenvolvedor Front-end – Lucas Henderson
-* Desenvolvedor Back-end – Lucas Henderson
-* Documentação – Lucas Henderson
-* Implantação – 
-* Professor coordenador –
-* Gerente –
-* Stakeholders – Unitins, professores e alunos.
 
 ## Metodologia aplicada no projeto
 	
