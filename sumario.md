@@ -20,7 +20,7 @@
 * <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/cronograma.md">Cronograma</a>
 * <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/listaReqFun.md">Lista de requisitos funcionais</a>
 * <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/listaReqNaoFun.md">Lista de requisitos não funcionais</a>
-* <a href="">Modelo conceitual</a>
+* <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/imgs/modelo_conceitual_npj.png">Modelo conceitual</a>
 * <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/casos-alto-expandido.md">Casos de uso de alto nível e expandido</a>
 * <a href="">Diagrama de classe</a>
 * <a href="">TAP</a>
