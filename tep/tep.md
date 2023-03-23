@@ -44,6 +44,12 @@
       <td>Diagrama de classes</td>
       <td>Lucas Henderson</td>
     </tr>
+    <tr>
+      <td>24/03/2023</td>
+      <td>1.5</td>
+      <td>Diagrama de componentes</td>
+      <td>Lucas Henderson</td>
+    </tr>
   </tbody>
 </table>
 
