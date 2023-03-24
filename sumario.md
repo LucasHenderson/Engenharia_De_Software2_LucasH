@@ -23,5 +23,6 @@
 * <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/imgs/modelo_conceitual_npj.png">Modelo conceitual</a>
 * <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/casos-alto-expandido.md">Casos de uso de alto nível e expandido</a>
 * <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/imgs/modelo_classes_npj.png">Diagrama de classe</a>
+* <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/principal/componentes.md">Diagramas de componentes</a>
 * <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/tap/tap.md">TAP</a>
 * <a href="https://github.com/LucasHenderson/Engenharia_De_Software2_LucasH/blob/main/tep/tep.md">TEP</a>
